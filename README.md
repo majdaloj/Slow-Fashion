@@ -17,4 +17,4 @@ Project is created with:
 * js
 	
 ## Credit
-Project completed for SheHacks 2020 by Salwa Abdalla, Majda Lojpur, Faizah Sayyid and Sophia Abolore.
+Project completed for SheHacks 2020 by Salwa Abdalla, Majda Lojpur, Faizah Sayyid and Sophia Abolore. ReadME written by Salwa Abdalla.
